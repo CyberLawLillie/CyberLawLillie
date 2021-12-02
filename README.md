@@ -3,9 +3,9 @@
 🌱 I’m currently learning HTML, Javascript and CSS. ...
 💞️ I’m looking to collaborate on nothing at the moment ...
 📫 How to reach me
-<a href="mailto:CyberLawLillie@gmail.com">Email</a>
+<li ><a href="mailto:CyberLawLillie@gmail.com">Email</a>
 <a href="https://www.linkedin.com/in/cyberlawlillie/m">Linkedin</a>
-<a href="https://twitter.com/CyberLawLillie">Twitter</a>
+<a href="https://twitter.com/CyberLawLillie">Twitter</a> </li>
 😄 Pronouns: (She/Her)
 ⚡ Fun fact: The first person convicted of speeding was going eight mph.
 
