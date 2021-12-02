@@ -1,11 +1,11 @@
-👋 Hi, I’m @CyberLawLillie
+👋 Hi, I’m @CyberLawLillie 
 👀 I’m interested in coding for a better human interaction ...
 🌱 I’m currently learning HTML, Javascript and CSS. ...
 💞️ I’m looking to collaborate on nothing at the moment ...
-📫 How to reach me
-<li ><a href="mailto:CyberLawLillie@gmail.com">Email</a>
-<a href="https://www.linkedin.com/in/cyberlawlillie/m">Linkedin</a>
-<a href="https://twitter.com/CyberLawLillie">Twitter</a> </li>
+📫 How to reach me<
+<li ><a href="mailto:CyberLawLillie@gmail.com">Email</a></li>
+  <li> <a href="https://www.linkedin.com/in/cyberlawlillie/m">Linkedin</a></li>
+<li ><a href="https://twitter.com/CyberLawLillie">Twitter</a> </li>
 😄 Pronouns: (She/Her)
 ⚡ Fun fact: The first person convicted of speeding was going eight mph.
 
