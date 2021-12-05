@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lillie Smith</h1>
-<h3 align="center">A passionate frontend developer from America</h3>
+<h3 align="center">I'm a Texas A&M undergraduate student majoring in political science , human rights activist and developer.. My interests range from technology to travel. I am also a certified yoga instructor in Yin </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberlawlillie&label=Profile%20views&color=0e75b6&style=flat" alt="cyberlawlillie" /> </p>
 
