@@ -15,18 +15,18 @@
 [<img align="left" alt="CyberLawLillie | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="CyberLawLillie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="CyberLawLillie | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="CyberLawLillie | Reddit" width="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/reddit.svg" />][reddit]
 
-<br />
-
-
----
-
-
-[![CyberLawLillie's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberLawLillie)](https://github.com/cyberlawlillie/github-readme-stats)
-
+<br><br>
+### CyberLawLillie's GitHub stats
+[![CyberLawLillie GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberLawLillie)](https://github.com/CyberLawLillie/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberLawLillie&layout=compact)](https://github.com/CyberLawLillie/github-readme-stats)
 
 [website]: http://cyberlawlillie.me/
 [github]: https://github.com/CyberLawLillie
 [twitter]: https://twitter.com/CyberLawLillie
 [instagram]: https://www.instagram.com/cyberlawlillie/
 [linkedin]: https://www.linkedin.com/in/cyberlawlillie
+[reddit]: https://www.reddit.com/user/CyberLawLillie/
+[FCC]: https://www.freecodecamp.org/CyberLawLil
