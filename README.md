@@ -5,8 +5,6 @@
 ## I'm a Wife, Undergrad student, Developer, and Yoga Instructor!!
 - 👀 I’m interested in coding for a better human interaction
 - 🌱 I’m currently learning everything 🤣
-- 📫 How to reach me  <a href="mailto:CyberLawLillie@gmail.com">Email</a> // <a href="https://www.linkedin.com/in/cyberlawlillie/m">Linkedin</a>//
-<a href="https://twitter.com/CyberLawLillie">Twitter</a> <br>
 - 😄 Pronouns: (She/Her) <br>
 - ⚡ Fun fact: The first person convicted of speeding was going eight mph. <br>
 
