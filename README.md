@@ -1,32 +1,43 @@
+<h1 align="center">Hi 👋, I'm Lillie Smith</h1>
+<h3 align="center">A passionate frontend developer from America</h3>
 
-### Hi there, I'm Lillie - aka CyberLawLillie 👋 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberlawlillie&label=Profile%20views&color=0e75b6&style=flat" alt="cyberlawlillie" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberlawlillie" alt="cyberlawlillie" /></a> </p>
 
-## I'm a Wife, Undergrad student, Developer, and Yoga Instructor!!
-- 👀 I’m interested in coding for a better human interaction
-- 🌱 I’m currently learning everything 🤣
-- 😄 Pronouns: (She/Her) <br>
-- ⚡ Fun fact: The first person convicted of speeding was going eight mph. <br>
+<p align="left"> <a href="https://twitter.com/cyberlawlillie" target="blank"><img src="https://img.shields.io/twitter/follow/cyberlawlillie?logo=twitter&style=for-the-badge" alt="cyberlawlillie" /></a> </p>
 
-### Connect with me:
+- 🔭 I’m currently working on **HTML website mockups**
 
-[<img align="left" alt="CyberLawLillie.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="CyberLawLillie | Github" width="22px" src="https://github.com/HaeckDesign/Get-Social-Social-Media-Font/blob/master/images/PNG/github.png" />][github]
-[<img align="left" alt="CyberLawLillie | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="CyberLawLillie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="CyberLawLillie | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="CyberLawLillie | Reddit" width="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/reddit.svg" />][reddit]
+- 🌱 I’m currently learning **Everything**
 
-<br><br>
-### CyberLawLillie's GitHub stats
-[![CyberLawLillie GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberLawLillie)](https://github.com/CyberLawLillie/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberLawLillie&layout=compact)](https://github.com/CyberLawLillie/github-readme-stats)
+- 🤝 I’m looking for help with **C++**
 
-[website]: http://cyberlawlillie.me/
-[github]: https://github.com/CyberLawLillie
-[twitter]: https://twitter.com/CyberLawLillie
-[instagram]: https://www.instagram.com/cyberlawlillie/
-[linkedin]: https://www.linkedin.com/in/cyberlawlillie
-[reddit]: https://www.reddit.com/user/CyberLawLillie/
-[FCC]: https://www.freecodecamp.org/CyberLawLil
+- 👨‍💻 All of my projects are available at [CyberLawLillie.me](CyberLawLillie.me)
+
+- 📝 I regularly write articles on [Cybersecurity](Cybersecurity)
+
+- 📫 How to reach me **CyberLawLillie@gmail.com**
+
+- 📄 Know about my experiences [http://cyberlawlillie.me/Profile%20(1).pdf](http://cyberlawlillie.me/Profile%20(1).pdf)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/cyberlawlillie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyberlawlillie" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cyberlawlillie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyberlawlillie" height="30" width="40" /></a>
+<a href="https://fb.com/cyberlawlillie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cyberlawlillie" height="30" width="40" /></a>
+<a href="https://instagram.com/cyberlawlillie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyberlawlillie" height="30" width="40" /></a>
+<a href="https://medium.com/cyberlawlillie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="cyberlawlillie" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/CyberLawLillie"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CyberLawLillie" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberlawlillie&show_icons=true&locale=en&layout=compact" alt="cyberlawlillie" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberlawlillie&show_icons=true&locale=en" alt="cyberlawlillie" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberlawlillie&" alt="cyberlawlillie" /></p>
