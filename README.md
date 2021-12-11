@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **CyberLawLillie@gmail.com**
 
-- 📄 Know about my experiences [http://cyberlawlillie.me/Profile%20(1).pdf](http://cyberlawlillie.me/Profile%20(1).pdf)
+- 📄 Know about my experiences [Resume](http://cyberlawlillie.me/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
