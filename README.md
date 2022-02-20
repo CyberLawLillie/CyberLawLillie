@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lillie Smith</h1>
-<h3 align="center">I'm a Texas A&M undergraduate student majoring in political science , human rights activist and developer.. My interests range from technology to travel. I am also a certified yoga instructor in Yin </h3>
+<h3 align="center">🏆 Top 6% THM Try Hack Me | Cyber Security Student | Undergrad in Political Science | Threat Researcher | Security Researcher| Seeking Full-Time opportunity in Cybersecurity. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberlawlillie&label=Profile%20views&color=0e75b6&style=flat" alt="cyberlawlillie" /> </p>
 
